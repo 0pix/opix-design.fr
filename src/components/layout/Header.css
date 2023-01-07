@@ -1,0 +1,9 @@
+.header{
+  width: 100%;
+  padding: 30px;
+  background-color: cornflowerblue;
+}
+
+.header a {
+  margin-right: 10px;
+}
