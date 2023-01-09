@@ -5,5 +5,10 @@
 }
 
 .header a {
-  margin-right: 10px;
+  margin: 0  10px;
+}
+
+.header ul {
+  display: flex;
+  justify-content: flex-end;
 }
